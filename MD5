@@ -1,4 +1,4 @@
-7613571e20f4afc4cdd3582540669952 *DESCRIPTION
+9fba10d3b2391d53fdba94ca98f6b6ae *DESCRIPTION
 6f247eec046e62c946211bd583954db1 *NAMESPACE
 20b1c651c541549388ef2c31f2da57b6 *R/hello.R
 47387e9e4d2b3f10516456938653604f *R/meanTest.R
@@ -12,7 +12,7 @@ ff63f039543dfc6819dba605f16fff55 *man/RegMax.Rd
 64fda4248fd9e454cbdcb7b87d7e9b60 *man/TSrowMaxST.Rd
 6464577dfeea5dfed05841aa8e426d69 *man/TSrowMinST.Rd
 c8f832aeac721b64c96afbeb088fecae *man/assessBsFun.Rd
-2707ce4f9d2f869073d6cab953fb48b2 *man/bic.spfac.Rd
+633c83d76627fe8d347772e703520d2c *man/bic.spfac.Rd
 2d0059a5a67e41c03249570935c974bb *man/ccorFun.Rd
 3f709aa36d5c5c40847d1971ff8f038a *man/cv.spfac.Rd
 92bc6e0178198115a3b2563c269f63d0 *man/gendata_Fac.Rd

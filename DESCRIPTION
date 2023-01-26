@@ -2,8 +2,8 @@ Package: TOSI
 Type: Package
 Title: Two-Directional Simultaneous Inference for High-Dimensional
         Models
-Version: 0.2.0
-Date: 2023-01-23
+Version: 0.3.0
+Date: 2023-01-26
 Authors@R: 
     c(person(given = "Wei",
              family = "Liu",
@@ -30,6 +30,6 @@ BugReports: https://github.com/feiyoung/TOSI/issues
 License: GPL
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2023-01-23 12:48:11 UTC; Liuxianju
+Packaged: 2023-01-26 11:43:19 UTC; Liuxianju
 Repository: CRAN
-Date/Publication: 2023-01-24 10:30:04 UTC
+Date/Publication: 2023-01-26 22:00:30 UTC
